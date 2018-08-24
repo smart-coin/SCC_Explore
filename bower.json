@@ -1,0 +1,29 @@
+{
+  "name": "litecore-explorers",
+  "main": "/litecore-explorers.min.js",
+  "version": "1.0.1",
+  "homepage": "https://github.com/litecoin-project/litecore-explorers",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "Module to query blockchain apis for litecore.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "litecoin",
+    "litecore",
+    "ltc",
+    "insight"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "index.js",
+    "gulpfile.js",
+    "README.md",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
